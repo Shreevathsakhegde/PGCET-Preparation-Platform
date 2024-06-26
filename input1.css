@@ -1,0 +1,35 @@
+.contain{
+    background-image: url("background.png");
+    background-size: cover;
+    /* height: 100px; */
+
+}
+
+.sk1{
+    background-image: url("sk7.jpg");
+    background-size: cover;
+    /* height: 100px; */
+}
+
+.adimage{
+    background-image: url("adreg.jpg");
+    background-size: cover;
+    /* height: 100px; */
+}
+
+.loginimage{
+    background-image: url("log.webp");
+    background-size: cover;
+    /* height: 100px; */
+}
+.sk{
+    background-image: url("sk1.jpg");
+    background-size: cover;
+    /* height: 100px; */
+}
+
+.sk9{
+    background-image: url("sk9.jpg");
+    background-size: cover;
+    /* height: 100px; */
+}
